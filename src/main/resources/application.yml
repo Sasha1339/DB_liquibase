@@ -8,7 +8,6 @@ spring:
     #drop-first: false
     #user: sa
     #password: 1
-
     driver-class-name: org.h2.Driver
 
   jpa:
